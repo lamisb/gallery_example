@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+  <photo category="family">
+    <title lang="en">First Family Title</title>
+    <path>images/photo1.jpg</path>
+  </photo>
+  <photo category="family">
+    <title lang="en">Second Family Title</title>
+    <path>images/photo2.jpg</path>
+  </photo>
+  <photo category="children">
+    <title lang="en">First children Title</title>
+    <path>images/photo3.jpg</path>
+  </photo>
+</gallery>
